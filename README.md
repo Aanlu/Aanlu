@@ -4,8 +4,8 @@
   </a>
   <p><i>Building systems, understanding structures, and listening to a lot of music.</i></p>
   
-  <a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:luisantonio6641gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/luis-antonio-cazares-s%C3%A1nchez-b389a9311/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   
   <br><br>
   <p>⬇️ <b>Scroll down for the Spanish version!</b> ⬇️</p>
@@ -23,14 +23,6 @@ I am a **Software Engineering student (FIM UAS)** with a deep focus on **Softwar
 * **IoT & Hardware:** Built Android + Arduino Bluetooth integrations with optimized data streams (SQL & Firebase).
 * **Core Logic:** Developed a Turing Machine Simulator (JavaFX).
 
-<div align="center">
-  <a href="https://github.com/Aanlu/nombre-del-repo-iot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aanlu&repo=nombre-del-repo-iot&theme=transparent&show_icons=true" width="48%" />
-  </a>
-  <a href="https://github.com/Aanlu/nombre-del-repo-turing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aanlu&repo=nombre-del-repo-turing&theme=transparent&show_icons=true" width="48%" />
-  </a>
-</div>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -59,11 +51,3 @@ Soy **estudiante de Ingeniería de Software (FIM UAS)** con un fuerte enfoque en
 * **IoT y Hardware:** Desarrollo de integraciones Android + Arduino vía Bluetooth con optimización de datos (SQL y Firebase).
 * **Lógica Computacional:** Simulador de Máquina de Turing creado con JavaFX.
 
----
-
-## 📊 GitHub Stats & Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aanlu&show_icons=true&theme=transparent&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanlu&layout=compact&theme=transparent&hide_border=true" width="48%" alt="Top Languages" />
-</div>
